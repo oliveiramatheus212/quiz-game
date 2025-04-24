@@ -24,3 +24,6 @@ Este é um pequeno jogo de perguntas desenvolvido como forma de estudo, utilizan
    cd quiz-game
    npm install
    npm run serve
+
+
+![image](https://github.com/user-attachments/assets/f2f66430-df92-43ed-8e3b-3a4613d7b664)
