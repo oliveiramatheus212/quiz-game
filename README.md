@@ -1,24 +1,26 @@
-# quiz-game
+# 🎮 Quiz App com Open Trivia API
 
-## Project setup
-```
-npm install
-```
+Este é um pequeno jogo de perguntas desenvolvido como forma de estudo, utilizando a [Open Trivia API](https://opentdb.com/) para obter as perguntas. O projeto foi construído com **Vue 3**, **Axios** e **TypeScript**.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## 🚀 Funcionalidades
 
-### Compiles and minifies for production
-```
-npm run build
-```
+- Puxa perguntas aleatórias da Open Trivia API
+- Exibe perguntas de múltipla escolha
+- Interface simples e responsiva
+- Feedback de resposta certa ou errada
 
-### Lints and fixes files
-```
-npm run lint
-```
+## 🛠️ Tecnologias Utilizadas
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- [Vue 3](https://vuejs.org/)
+- [Axios](https://axios-http.com/)
+- [TypeScript](https://www.typescriptlang.org/)
+
+## 📦 Como Rodar Localmente
+
+1. Clone este repositório:
+
+   ```bash
+   git clone https://github.com/seu-usuario/quiz-game.git
+   cd quiz-game
+   npm install
+   npm run serve
